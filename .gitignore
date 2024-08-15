@@ -1,0 +1,14 @@
+node_modules
+
+/.cache
+/build
+/public/build
+.env
+
+tsconfig.json
+vite.config.tsconfig
+vitepackage.json
+NOTindex.jsx
+notes_Max.jsx
+/remix-tutorial
+vite.config.ts
