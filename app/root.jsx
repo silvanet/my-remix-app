@@ -9,8 +9,8 @@ import {
   ScrollRestoration,
 } from "@remix-run/react";
 
-import MainNavigation from '~/components/MainNavigation';
-import styles from '~/styles/main.css?url';
+import MainNavigation from './components/MainNavigation';
+import styles from './styles/main.css';
 
 export const meta = () => ({
     charset: "utf-8",

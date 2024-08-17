@@ -1,6 +1,6 @@
 import { Link } from '@remix-run/react';
 
-import homeStyles from '~/styles/home.css';
+import homeStyles from '../styles/home.css';
 
 export default function Index() {
   return (
